@@ -2,7 +2,7 @@
 % Please edit documentation in R/square.R
 \name{is.odd}
 \alias{is.odd}
-\title{Title}
+\title{Test for oddness}
 \usage{
 is.odd(x)
 }
@@ -10,5 +10,5 @@ is.odd(x)
 \item{x}{}
 }
 \description{
-Title
+Test for oddness
 }

@@ -13,7 +13,7 @@ square <- function(x) {
   x^2
 }
 
-#' Title
+#' Test for oddness
 #'
 #' @param x
 #'
